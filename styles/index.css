@@ -7,6 +7,7 @@
   font-family: 'Poppins', sans-serif;
 }
 
+
 body {
   background: #f5f5f5;
   color: #333;
@@ -16,7 +17,7 @@ body {
 /* Header */
 .header {
   text-align: center;
-  background: #ffb120;
+  background: #3674fa;
   color: white;
   padding: 20px 10px;
   border-radius: 0 0 20px 20px;
@@ -169,7 +170,7 @@ button {
 }
 
 .plano button {
-  background:#ffb120;
+  background:#3674fa;
   color: white;
   width: 100%;
   margin-top: 10px;
